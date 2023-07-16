@@ -1,5 +1,7 @@
 ###Zachary Brennan
+
 ##Software Developer
+
 #Zachary.a.Brennan@Gmail.com
 
 As a seasoned software development engineer with 5 years of experience, I have been primarily focused on Automated Testing using Python. Throughout my career, I have had the opportunity to work for renowned organizations such as Unisys Corporation, Lockheed Martin's Advanced Technologies Laboratory, and most recently Comcast NBC Universal.
